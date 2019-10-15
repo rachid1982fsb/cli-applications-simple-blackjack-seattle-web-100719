@@ -1,3 +1,7 @@
+puts "get number"
+ number= gets.to_i
+puts number *6
+
 def welcome
   # code #welcome here
 end
